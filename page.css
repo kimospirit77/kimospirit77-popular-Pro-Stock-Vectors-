@@ -1,0 +1,369 @@
+.landing{padding-top: 5px;
+    width: 1300px;
+    height:1100px;
+    background-color:#dfe4e8;
+  
+  }
+  .first{
+    font-family: 'Poppins', sans-serif;
+    background-color:#f5f6f6;
+    width: 1200px;
+    height:1000px;
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+  .fb{
+    transform: scale(1.2);
+  
+  }
+  
+  .nav-bar{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    text-indent: 2em;
+    margin-top: 15px;
+    margin-left: 90px;
+    font-weight: bold;
+  }
+  .nave{    color:#777777 ;
+
+    text-decoration: none;
+  }
+  .oo{width: 20px;
+  height: 10px;
+  margin-top: 7px;
+  
+  }
+  #mo{color: black;
+    font-weight: bolder;
+   
+  }
+  #logo{
+    font-weight: bolder;
+   background-color: gold;
+   padding-top: 20px;
+   padding-left: 5px;
+   padding-right: 5px;
+   margin-top: 20px;
+   border-radius: 5px;
+   color: black;
+  }
+  .dd{
+    margin-top: 20px;
+  }
+  .content{ font-weight: bold;
+    text-align: center;
+  }
+  h1{
+    font-size: 45px;
+  }
+  #pp{font-size: 17px;
+    color:#979797 ;
+  }
+  .sym a{font-size: 15px;
+    text-decoration: none;
+    text-indent: 0em;
+    margin-left: 75px;
+    color: black;
+    font-weight: bolder;
+  }
+ 
+  
+  #ora{
+    color: rgb(243, 116, 12);
+    font-weight: bold;
+  
+  }
+  #fr{
+    color: blueviolet;
+    font-weight: bold;
+  
+  }
+  
+  form {
+    background-color: #ffffff;
+    width: 300px;
+    height: 44px;
+  
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 480px;
+  }
+  input {  all:unset;
+    font: 16px system-ui;
+  
+    color:black;
+    height: 100%;
+    width: 300px;
+    padding: 6px 10px;
+  }
+  button {
+    all: unset;
+    cursor: pointer;
+    width: 44px;
+    height: 43px;
+    background-color:#ffffff;
+    margin-left: -20px;
+    margin-top: 4px;
+  
+  }
+  
+    .vic{
+      width:100px;
+      text-align: center;
+      margin-left: 380px;
+          margin-top: -44px;
+          background-color:#ffffff;
+          height: 44px;
+          border-radius: 5px;
+  
+    }
+  
+        select{ background-color: #ffffff;
+          border: 1px solid black;
+          height: 34px;
+          padding-top: 2px;
+          margin-top: 4px;
+          border-radius: 5px;
+          margin-right: 15px;
+        }
+  
+  svg {
+    color: black;
+    fill: currentColor;
+    width: 24px;
+    height: 24px;
+    padding: 10px;
+  }
+  
+  .grid-container {
+     display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+      padding: 10px;
+      margin-left: 60px;
+      margin-top: 10px;
+  
+  }
+  .grid-item{ height: 290px;
+    width: 270px;
+    border-radius: 20px;
+    border: 20px solid #ffffff;
+    background-color:#ffffff;
+  
+  }
+  .last{display: flex;justify-content: center;
+    margin-top: 20px;
+  
+  
+  }
+   #next{height: 35px;
+    width: 180px;
+    font-size: 20px;
+    background-color:#ffffff;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    margin-top: 20px;
+    color: black;
+    font-weight: bolder;
+  
+  }
+  .grid-container1 {
+
+    display: grid;
+    grid-template-columns: 0fr 0fr 0.5fr;
+      padding: 10px;
+      margin-left: 180px;
+  
+  }
+  .grid-item1,.grid-item2,.grid-item3{ height: 48px;
+    width: 38px;
+    border-radius: 5px;
+    border: 2px solid #ffffff;
+    background-color: gold;
+  
+  
+  }
+  .collections{
+    margin-left: 25px;
+  }
+  .grid-item4{
+    margin-top: -50px;
+    margin-left:70px ;
+    }
+    #ffff a{
+  
+      color: black;
+      font-size: 18px;
+      font-weight:bolder;
+    }
+  
+  #f{
+    background-color:#f5f6f6;;
+    margin-left: 180px;
+  }
+  #ff{
+    background-color:#f5f6f6;;
+    margin-top: -52px;
+    margin-left: 205px;
+  }
+  
+  
+  
+  #fff{
+  
+    background-color:#f5f6f6;;
+    margin-top: -52px;
+    margin-left: 230px;
+  }
+  #lock{margin-left: 170px;
+    margin-top: 20px;
+    height: 20px;
+    width: 40px;
+    color: #979797;
+    font-size: 15px;
+  
+  
+  }
+  #a{
+    height: 150px;
+    width: 150px;
+    margin-left: 40px;
+    margin-top: -20px;
+   
+    }
+    .pho1{
+      height: 180px;
+      width: 270px;
+      background-color:#f5f6f6;
+    }
+    #p1{
+      text-align: center;
+      font-size: 23px;
+      color: #979797;
+    }
+    span{
+      font-size: 40px;
+      color: black;
+    }
+    .tel{
+      margin-left: 100px;
+      margin-top: -20px;
+      font-size:20px ;
+  
+    }
+    .tel a{
+      color: black;
+      font-weight: bold;
+    }
+    #down1{
+      font-size: 15px;
+      color: black;
+      margin-left: 10px;
+  
+  
+    }
+    #open{margin-left: 200px;
+      margin-top: 20px;
+      height: 20px;
+      width: 40px;
+      color: #979797;
+      font-size: 15px;}
+     .sym span{
+       margin-left: 590px;
+       font-size: 17px;
+     } 
+     .pages{
+       display: flex;
+       justify-content: flex-end;
+       margin-top: -99px;
+       margin-right: 100px;
+  
+     }
+     .pages a{font-weight: bold;
+       text-decoration: none;
+       border:#ccc7c7 ;
+       color: black;
+       font-size: 16px;
+       background-color: #ccc7c7;
+  
+  
+     }
+     .pages span{
+  
+       font-size: 16px;
+       padding: 5px;
+  
+  
+     }
+     #number{
+       background-color:#cddada;
+       padding: 1px;
+       margin-left: 1px;
+       border-radius: 5px;
+       color:#dfe4e8 ;
+  
+     }
+     .an1{
+      height: 45px;
+      width: 35px;
+     }
+     #arrow{
+       margin-left: 20px;
+       margin-top: 3px;
+     }
+    .pages p{
+      color: #979797;
+    }
+   .pages a{
+     text-decoration: none;
+  
+   }
+   .pages span{border:0.2px solid black;
+     background-color: #ffffff;
+     border-radius:5px;
+   }
+   .sym a{
+     color: black;
+   }
+   button[type="Submit"]{
+      font-size: 12px;
+      padding-right: 30px;
+     border-radius: 5px;
+     opacity:99%;
+     background-color:#e9f0f0;
+     margin-left: 300px;
+     width: 80px;
+     height: 40px;
+     border:0.5px solid#dfe4e8;
+       
+     color: black;
+     font-size: 15px;
+     word-spacing: 5px;
+   }
+   button a{ color:black;
+     text-decoration: none;
+  
+    }
+   .grid-item1:hover{
+      transform: scale(1.2);
+    }
+    .grid-item2:hover{
+      transform: scale(1.2);
+    }
+    .grid-item3:hover{
+      transform: scale(1.2);
+    }
+    a:hover{
+      color:blue
+    }
+   #gold:hover{
+     color: goldenrod;
+   }
+  #di:hover{
+    color:blueviolet ;
+  }
+  #next:hover{background-color: #dfe4e8;}
+  
